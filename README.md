@@ -1,13 +1,6 @@
-Projet n°11
-----------
 
-Créez votre portfolio de professionnel de la data
+<h2>Projet n°11 - Créez votre portfolio de professionnel de la data</h2>
 
-==========================================================
-
-Objectifs pédagogiques
-
----------------------
 
 - Accompagner les équipes sur la prise en main des outils
 - Adapter sa posture de professionnel en se positionnant comme consultant
